@@ -1,0 +1,43 @@
+
+#small {
+    font-size:1.5em;
+    line-height:15%
+   
+}
+#doing a {
+    font-size:0.7em;
+     
+    }
+
+#aboutme{
+    text-align:center;
+}
+#design,#contact,#projects h1 {
+    text-align:center;
+    text-decoration-color:orange;
+}
+
+.h1 {
+    text-align:center;
+    text-decoration-color:orange;
+}
+
+.carousel-caption h3{
+    font-family:'Waterlily';
+    font-size:60px;
+    color:white;
+}
+
+ 
+
+  #design h1, 
+  #aboutme h1, 
+ #contact h1,
+ #projects h1{
+      font-family:'Sharps GF';
+  }
+
+  .bgimg {
+    background-image: url("https://s16.postimg.org/ddee3km9h/map1.jpg");
+     
+}
